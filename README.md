@@ -32,6 +32,14 @@ This project compares the performance of **Convolutional Neural Networks (CNN)**
 | CNN   | ~99%     |
 | RNN   | ~94%  |
 
+## 📊 Results Visualization
+
+### CNN Training Loss
+![CNN Loss](results/cnn_loss.png)
+
+### RNN Training Loss
+![RNN Loss](results/rnn_loss.png)
+
 👉 CNN performs better because it captures spatial features effectively.
 
 ---
