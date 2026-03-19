@@ -25,6 +25,12 @@ This project compares the performance of **Convolutional Neural Networks (CNN)**
 
 ---
 
+## ⚙️ Training Details
+
+- Epochs: 10  
+- Optimizer: Adam  
+- Loss Function: CrossEntropyLoss  
+
 ## 📊 Results
 
 | Model | Accuracy |
@@ -41,6 +47,7 @@ This project compares the performance of **Convolutional Neural Networks (CNN)**
 ![RNN Loss](results/rnn_loss.png)
 
 👉 CNN performs better because it captures spatial features effectively.
+    while RNN treats image as sequence, losing spatial structure.
 
 ---
 
